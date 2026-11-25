@@ -10,10 +10,12 @@ I’m a Master of Artificial Intelligence and Machine Learning student at Adelai
 | Vision and audio | [Disaster image classification](https://github.com/Khushx11/disaster-image-classifier) · [SonicAid](https://github.com/Khushx11/SonicAid) · [MNIST reliability](https://github.com/Khushx11/mnist-classification-and-clustering) |
 | Forecasting and streaming ML | [Retail discount response](https://github.com/Khushx11/retail-discount-response) · [NumCompute](https://github.com/Khushx11/numcompute-penguins-streaming) |
 | Data and text tooling | [DataInsightKit](https://github.com/Khushx11/datainsightkit-python) · [Twitter sentiment](https://github.com/Khushx11/twitter-sentiment-analysis) |
+| Traffic computer vision | [Traffic Signal Queue Estimator](https://github.com/Khushx11/traffic-signal-queue-estimator) |
 | Frontend prototype | [Silver Spares Storefront](https://github.com/Khushx11/silver-spares-storefront) |
 
 ## Selected projects
 
+- **Traffic Signal Queue Estimator.** Built a fixed-camera lane queue prototype with vehicle tracking and explicit uncertainty. The FHWA pilot exposed detector coverage gaps; real-world count accuracy remains unverified. [Project and pilot](https://github.com/Khushx11/traffic-signal-queue-estimator)
 - **Structured Invoice Extraction and Review.** Built a local invoice OCR and review workflow with source highlights, an audit trail and structured export. Measured full-record automation on fictional invoices and amount extraction on real FCC documents. [Project and demo](https://github.com/Khushx11/structured-invoice-extraction)
 - **Multimodal disaster image classification.** Compared text, image and fusion models on CrisisMMD. Late fusion achieved mean clean-test macro-F1 of 0.8168. The prespecified gated-fusion comparison was inconclusive. [Project and dashboard](https://github.com/Khushx11/disaster-image-classifier) · [Evidence checks](https://github.com/Khushx11/disaster-image-classifier/actions/runs/45450963072) · [Captioned demo](https://raw.githubusercontent.com/Khushx11/disaster-image-classifier/main/docs/demo/walkthrough.mp4)
 - **Retail discount response.** Compared forecasts of next-week observed unit sales. LightGBM Tweedie had the lowest mean WAPE at 67.48% in the historical evaluation. Discount sweeps show model sensitivity. [Project and dashboard](https://github.com/Khushx11/retail-discount-response) · [Feature rebuild](https://github.com/Khushx11/retail-discount-response/actions/runs/45437888629)
