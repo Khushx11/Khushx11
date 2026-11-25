@@ -2,6 +2,14 @@
 
 I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. My projects focus on evaluating ML models under realistic constraints and building software that makes the results easy to inspect and reproduce.
 
+## Publications
+
+**Sonic Aid** · *IOSR Journal of Engineering*, vol. 15, issue 6, series 1, pp. 1–5, June 2025. [Read the paper](https://iosrjen.org/Papers/vol15_issue6/A15060105.pdf)
+
+Khush Maru (first author), Nevil Parekh, Hardik Patel, Vaishali Wadhe, and Moinuddin Sheikh.
+
+The original study explored speech-versus-music classification for sensory accessibility using sub-band coding, SVMs and Gaussian mixture models. The paper reported 94% classification accuracy. The current [SonicAid demo](https://github.com/Khushx11/SonicAid) evaluates environmental sounds on ESC-10.
+
 ## Start with a demo
 
 - **See a document correction:** Upload a scan, trace a field to its page, and approve an export. [Invoice review demo](https://github.com/Khushx11/structured-invoice-extraction#try-the-fictional-demo)
