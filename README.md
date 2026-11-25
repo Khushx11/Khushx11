@@ -1,9 +1,10 @@
-# Khush Maru
+# Khush Bhavin Maru
 
 I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. My projects focus on evaluating ML models under realistic constraints and building software that makes the results easy to inspect and reproduce.
 
 ## Selected projects
 
+- **Structured Invoice Extraction and Review.** Built a local invoice OCR and review workflow with source highlights, an audit trail and structured export. Measured full-record automation on fictional invoices and amount extraction on real FCC documents. [Project and demo](https://github.com/Khushx11/structured-invoice-extraction)
 - **Multimodal disaster image classification.** Compared text, image and fusion models on CrisisMMD. Late fusion achieved mean clean-test macro-F1 of 0.8168. The prespecified gated-fusion comparison was inconclusive. [Project and dashboard](https://github.com/Khushx11/disaster-image-classifier) · [Evidence checks](https://github.com/Khushx11/disaster-image-classifier/actions/runs/45450963072) · [Captioned demo](https://raw.githubusercontent.com/Khushx11/disaster-image-classifier/main/docs/demo/walkthrough.mp4)
 - **Retail discount response.** Compared forecasts of next-week observed unit sales. LightGBM Tweedie had the lowest mean WAPE at 67.48% in the historical evaluation. Discount sweeps show model sensitivity. [Project and dashboard](https://github.com/Khushx11/retail-discount-response) · [Feature rebuild](https://github.com/Khushx11/retail-discount-response/actions/runs/45437888629)
 - **SonicAid.** Built a WebSocket audio classifier using a checkpoint trained on ESC-10. Five-fold evaluation across 400 clips yielded 80.00% pooled accuracy and 0.8016 macro-F1. [Project and model card](https://github.com/Khushx11/SonicAid) · [Five-fold training](https://github.com/Khushx11/SonicAid/actions/runs/45433042812) · [Captioned demo](https://raw.githubusercontent.com/Khushx11/SonicAid/main/docs/demo/walkthrough.mp4)
