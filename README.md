@@ -2,6 +2,16 @@
 
 I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. My projects focus on evaluating ML models under realistic constraints and building software that makes the results easy to inspect and reproduce.
 
+## Browse by focus
+
+| Focus | Projects |
+| --- | --- |
+| Document AI and review | [Invoice extraction](https://github.com/Khushx11/structured-invoice-extraction) · [Inventory digitiser](https://github.com/Khushx11/handwritten-inventory-digitiser) |
+| Vision and audio | [Disaster image classification](https://github.com/Khushx11/disaster-image-classifier) · [SonicAid](https://github.com/Khushx11/SonicAid) · [MNIST reliability](https://github.com/Khushx11/mnist-classification-and-clustering) |
+| Forecasting and streaming ML | [Retail discount response](https://github.com/Khushx11/retail-discount-response) · [NumCompute](https://github.com/Khushx11/numcompute-penguins-streaming) |
+| Data and text tooling | [DataInsightKit](https://github.com/Khushx11/datainsightkit-python) · [Twitter sentiment](https://github.com/Khushx11/twitter-sentiment-analysis) |
+| Frontend prototype | [Silver Spares Storefront](https://github.com/Khushx11/silver-spares-storefront) |
+
 ## Selected projects
 
 - **Structured Invoice Extraction and Review.** Built a local invoice OCR and review workflow with source highlights, an audit trail and structured export. Measured full-record automation on fictional invoices and amount extraction on real FCC documents. [Project and demo](https://github.com/Khushx11/structured-invoice-extraction)
