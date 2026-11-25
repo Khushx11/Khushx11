@@ -2,16 +2,11 @@
 
 I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. My projects focus on evaluating ML models under realistic constraints and building software that makes the results easy to inspect and reproduce.
 
-## Browse by focus
+## Start with a demo
 
-| Focus | Projects |
-| --- | --- |
-| Document AI and review | [Invoice extraction](https://github.com/Khushx11/structured-invoice-extraction) · [Inventory digitiser](https://github.com/Khushx11/handwritten-inventory-digitiser) |
-| Vision and audio | [Disaster image classification](https://github.com/Khushx11/disaster-image-classifier) · [SonicAid](https://github.com/Khushx11/SonicAid) · [MNIST reliability](https://github.com/Khushx11/mnist-classification-and-clustering) |
-| Forecasting and streaming ML | [Retail discount response](https://github.com/Khushx11/retail-discount-response) · [NumCompute](https://github.com/Khushx11/numcompute-penguins-streaming) |
-| Data and text tooling | [DataInsightKit](https://github.com/Khushx11/datainsightkit-python) · [Twitter sentiment](https://github.com/Khushx11/twitter-sentiment-analysis) |
-| Traffic computer vision | [Traffic Signal Queue Estimator](https://github.com/Khushx11/traffic-signal-queue-estimator) |
-| Frontend prototype | [Silver Spares Storefront](https://github.com/Khushx11/silver-spares-storefront) |
+- **See a document correction:** Upload a scan, trace a field to its page, and approve an export. [Invoice review demo](https://github.com/Khushx11/structured-invoice-extraction#try-the-fictional-demo)
+- **Listen to a live model:** Follow environmental-sound predictions as five-second audio windows arrive. [SonicAid demo](https://github.com/Khushx11/SonicAid#quick-demo)
+- **Inspect an evaluation:** Compare image and text models under missing and shuffled inputs. [Disaster classifier demo](https://github.com/Khushx11/disaster-image-classifier#quick-demo)
 
 ## Selected projects
 
