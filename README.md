@@ -1,11 +1,11 @@
 # Khush Bhavin Maru
 
-I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. I build applied ML systems with reproducible evaluations and demos that show where the models work and where they fail.
+I’m a Master of Artificial Intelligence and Machine Learning student at Adelaide University. My portfolio focuses on applied machine learning, evaluation, and human review.
 
 ## Featured projects
 
-- **SonicAid** streams microphone audio to a ten-class environmental sound classifier. The official five-fold ESC-10 evaluation achieved **80.00% pooled accuracy** across 400 clips. [Demo](https://github.com/Khushx11/SonicAid#quick-demo) · [Docker and browser checks](https://github.com/Khushx11/SonicAid/actions/runs/45667710575)
-- **Structured Invoice Extraction and Review** lets reviewers trace extracted fields to the source, correct values and approve JSON or CSV exports. The full-record benchmark uses fictional invoices. Real FCC tests measure amount extraction. [Demo](https://github.com/Khushx11/structured-invoice-extraction#try-the-fictional-demo) · [Browser and export checks](https://github.com/Khushx11/structured-invoice-extraction/actions/runs/45652567172)
+- **SonicAid** streams microphone audio to a ten-class environmental sound classifier. The official five-fold ESC-10 evaluation achieved **80.00% pooled accuracy** across 400 clips. [Demo](https://github.com/Khushx11/SonicAid#quick-demo) · [Docker and browser checks](https://github.com/Khushx11/SonicAid/actions/workflows/prototype-checks.yml)
+- **Structured Invoice Extraction and Review** lets reviewers trace extracted fields to the source, correct values and approve JSON or CSV exports. The full-record benchmark uses fictional invoices. Real FCC tests measure amount extraction. [Demo](https://github.com/Khushx11/structured-invoice-extraction#try-the-fictional-demo) · [Browser and export checks](https://github.com/Khushx11/structured-invoice-extraction/actions/workflows/checks.yml)
 - **Disaster Image Classifier** compares text, image and fusion models on CrisisMMD. Late fusion achieved **0.8168 mean clean-test macro-F1**. The prespecified gated-fusion comparison was inconclusive. [Demo](https://github.com/Khushx11/disaster-image-classifier#quick-demo) · [Evaluation evidence](https://github.com/Khushx11/disaster-image-classifier/actions/runs/45450963072)
 
 ## Publications
